@@ -192,7 +192,7 @@ p.note { display: none; }
 <h2><span class="yellow">雑誌コーナーのこの手の棚はどこもこんな感じ</span></h2>
 <a href="20260803_012.JPG" target="_blank"><img src="20260803_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">専門書コーナーではClaud Codeが旬</span></h2>
+<h2><span class="yellow">専門書コーナーではClaude Codeが旬</span></h2>
 <a href="20260803_013.JPG" target="_blank"><img src="20260803_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260803_014.JPG" target="_blank"><img src="20260803_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 
